@@ -2,14 +2,14 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Blog 시작.
 ---
 
-## What is it?
+## 영상 처리와 개인 취미
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+[about]]({{ site.baseurl}}{% link _pages/about.md %})
 
 ## How to use it
 

@@ -2,24 +2,12 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Blog 시작.
+title: Falcon Blog.
 ---
 
-## 영상 처리와 개인 취미
-
-{% include components/intro.md %}
-
-[about]]({{ site.baseurl}}{% link _pages/about.md %})
-
-## How to use it
-
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
-
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
-
-<hr />
+## Blog 시작.
+ 개인적으로 공부하는 것을 옮겨 적어보기 위해 가벼운 마음으로 블로그를 시작해본다.
+[about]({{ site.baseurl}}{% link _pages/about.md %})
 
 ### Recent Posts
 

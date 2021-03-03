@@ -1,13 +1,12 @@
 ---
 title: FalconEyes Lite
 images:
- - /img/FalconEyes_lite_00.jpg
+ - /img/FalconEyes_lite_00.png
  - /img/FalconEyes_lite_01.png
  - /img/FalconEyes_lite_02.png
  - /img/FalconEyes_lite_03.png
  - /img/FalconEyes_lite_04.png
  - /img/FalconEyes_lite_05.png
- - /img/FalconEyes_lite_06.png
 ---
 
 ## FalconEyes-Lite
@@ -44,3 +43,5 @@ images:
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+#### [Download EXE](https://github.com/FalconYD/FalconEyes-Lite/releases/download/lite/FalconEyes-Lite.exe)

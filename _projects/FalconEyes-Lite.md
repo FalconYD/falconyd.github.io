@@ -1,12 +1,12 @@
 ---
 title: FalconEyes Lite
 images:
- - /img/FalconEyes_lite_00.png
- - /img/FalconEyes_lite_01.png
- - /img/FalconEyes_lite_02.png
- - /img/FalconEyes_lite_03.png
- - /img/FalconEyes_lite_04.png
- - /img/FalconEyes_lite_05.png
+ - /img/project/FalconEyes_lite_00.png
+ - /img/project/FalconEyes_lite_01.png
+ - /img/project/FalconEyes_lite_02.png
+ - /img/project/FalconEyes_lite_03.png
+ - /img/project/FalconEyes_lite_04.png
+ - /img/project/FalconEyes_lite_05.png
 ---
 
 ## FalconEyes-Lite

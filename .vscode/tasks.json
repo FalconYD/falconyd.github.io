@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell", // replace `opencl` with `shell`
+            "label": "opencl: custom build [kernel] {gpu_64}",
+            "command": "/System/Library/Frameworks/OpenCL.framework/Libraries/openclc",
+            "args": [
+                "-emit-llvm",
+                "-c",
+                "-arch",
+                "gpu_64",
+                "kernel.cl",
+                "-o kernel.gpu_64.bc"
+            ],
+            "problemMatcher": [
+                "$opencl.common",
+                "$opencl.openclc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
+}

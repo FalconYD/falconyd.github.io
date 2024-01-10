@@ -29,6 +29,10 @@ collections:
     output: true
     title: Projects
     permalink: /:collection/:name.html
+  projects:
+    output: true
+    title: SideProjects
+    permalink: /:collection/:name.html
 
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
@@ -53,13 +57,6 @@ defaults:
     values:
       show_profile: false
       layout: defaults/project
-      layout: defaults/post
-  -
-    scope:
-      path: "_sideprojects"
-    values:
-      show_profile: false
-      layout: defaults/sideproject
   -
     scope:
       path: "list"

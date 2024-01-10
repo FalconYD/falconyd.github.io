@@ -16,7 +16,7 @@ avatar:           /theme/img/FalconEye.png   # Path to an avatar image
 baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages"]
 
 # Wire in the SASS files in the theme directory.
 sass:
@@ -28,10 +28,6 @@ collections:
   projects:
     output: true
     title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
-    output: true
-    title: portfolio
     permalink: /:collection/:name.html
 
 defaults:
@@ -53,16 +49,11 @@ defaults:
       layout: defaults/post
   -
     scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
       path: "_projects"
     values:
       show_profile: false
       layout: defaults/project
+      layout: defaults/post
   -
     scope:
       path: "_sideprojects"

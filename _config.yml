@@ -65,6 +65,12 @@ defaults:
       layout: defaults/project
   -
     scope:
+      path: "_sideprojects"
+    values:
+      show_profile: false
+      layout: defaults/sideproject
+  -
+    scope:
       path: "list"
     values:
       show_profile: false

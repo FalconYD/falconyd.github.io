@@ -1,21 +1,13 @@
 ---
-title: Test Pjt
+title: SMEC (2019.10. ~ 2021.06.)
 images:
- - /img/project/FalconEyes_2_01.png
- - /img/project/FalconEyes_2_02.png
- - /img/project/FalconEyes_2_03.png
- - /img/project/FalconEyes_2_04.png
- - /img/project/FalconEyes_2_05.png
- - /img/project/FalconEyes_2_06.png
- - /img/project/FalconEyes_2_07.png
- - /img/project/FalconEyes_2_08.png
- - /img/project/FalconEyes_2_09.png
+
 ---
-
-## Test Pjt
-Test Pjt
-
-- OpenCV 451 Static Build -> 480 DLL.
+## Wafer Polisher 1.8, 2.0 (2019.10. ~ 2021.06.)
+- 목적 : 반도체 Wafer Polishing을 위한 Align, 측정 Module 개발
+- 사용기술 : MIL, OpenCV, WPF, C++, Basler 카메라 제어, RS232 조명 제어.
+- 개발환경 : Windows 10 / WPF / MIL / Basler SDK / RS232
+- 담당업무 : 시료 Align SW 개발, Recipe UI 개발, 현장 셋업.
   
 ### Program Images
 

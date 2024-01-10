@@ -29,7 +29,7 @@ collections:
     output: true
     title: Projects
     permalink: /:collection/:name.html
-  projects:
+  sideprojects:
     output: true
     title: SideProjects
     permalink: /:collection/:name.html
@@ -57,6 +57,12 @@ defaults:
     values:
       show_profile: false
       layout: defaults/project
+  -
+    scope:
+      path: "_sideprojects"
+    values:
+      show_profile: false
+      layout: defaults/sideproject
   -
     scope:
       path: "list"

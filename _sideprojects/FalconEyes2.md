@@ -1,15 +1,15 @@
 ---
 title: FalconEyes 2.0
 images:
- - /img/project/FalconEyes_2_01.png
- - /img/project/FalconEyes_2_02.png
- - /img/project/FalconEyes_2_03.png
- - /img/project/FalconEyes_2_04.png
- - /img/project/FalconEyes_2_05.png
- - /img/project/FalconEyes_2_06.png
- - /img/project/FalconEyes_2_07.png
- - /img/project/FalconEyes_2_08.png
- - /img/project/FalconEyes_2_09.png
+ - /img/project/FalconEyes2_01.png
+ - /img/project/FalconEyes2_02.png
+ - /img/project/FalconEyes2_03.png
+ - /img/project/FalconEyes2_04.png
+ - /img/project/FalconEyes2_05.png
+ - /img/project/FalconEyes2_06.png
+ - /img/project/FalconEyes2_07.png
+ - /img/project/FalconEyes2_08.png
+ - /img/project/FalconEyes2_09.png
 ---
 
 ## FalconEyes2.0
@@ -33,14 +33,14 @@ images:
   - 3D Profile : WPF 3D Visual을 기반으로 한 3D Profile -> Helix 3D로 대치.
   - Algorithm Test : 영상처리 알고리즘 테스트용 Window.
   - Deep Learning : torchlib을 MFC 단독 프로세스로 MNIST 숫자인식 구현.
-- Inspect
+- Inspector
   - AutoSearch : 패턴 검사 알고리즘 테스트.
   - Inspector : 패턴 검사 알고리즘 별도 프로세스 (FalconInspector)
   - Detect Rectangle : 사각형 검출.
   - Measure Thick : 라인 두께 검사.
 - OpenCV 451 Static Build -> 480 DLL.
   
-### Program Images
+## Program Images
 
 <div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
     <div class="carousel-inner">

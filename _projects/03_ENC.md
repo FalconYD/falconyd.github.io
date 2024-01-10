@@ -1,25 +1,15 @@
 ---
-title: FalconInspector
+title: ENC Technology (2019.05. ~ 2019.10.)
 images:
- - /img/project/FalconInspector.png
+
 ---
-
-## FalconInspector
-Falcon Eyes에 작성하였던 Pattern Inspector 고속처리 프로젝트.
-
-- WPF UI.
-- 4가지 고속화 작업.
-  - SIMD OpenMP : SSE 기반 OpenMP 가속.
-  - SIMD TBB : SSE 기반 TBB 가속.
-  - TBB : TBB 가속. (Thread Building Block)
-  - OpenCL : GPGPU 가속. (OpenCL 2.0 지원 디바이스 전용)
-  - CUDA : GPGPU 가속. (Nvidia Device 전용)
-- OpenCV 480 DLL.
-- CvBlob.
-- 처리속도 모니터링. (MB/s)
-- 시스템 자원 모니터링.
+## 3D Cover Glass Vision Inspector (2019.05. ~ 2019.10.)
+- 목적 : 3D Cover Glass 외관 검사 내재화 설비
+- 사용기술 : -
+- 개발환경 : -
+- 담당업무 : 외주 SW업체 일정 관리 및 프로젝트 샘플 테스트 및 결과 피드백
   
-## Program Images
+### Program Images
 
 <div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
     <div class="carousel-inner">

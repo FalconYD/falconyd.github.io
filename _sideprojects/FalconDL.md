@@ -12,14 +12,14 @@ images:
 Pytorch C++ 버전인 libtorch기반 AI 테스트 프로젝트.
 Github에 구현된 libtorch 기반 프로젝트 UI추가.
 
-###- Done
+### Done
 - WPF UI.
 - 프로젝트 로드, 언로드
 - 여러 이미지 로드
 - 라벨링 수정 및 작성 (Segment).
 - AI 트레이닝 모델 파일 생성. (Segment)
 
-###- Todo
+### Todo
 - Classify 모델 Trainning, Inference
 - Location Detect 모델 Trainning, Infrence
   

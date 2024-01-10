@@ -27,4 +27,4 @@ images:
   - Pytorch - Study
 
 - 툴
-  - AutoCAD, Inventor, OrCad
+  - AutoCAD

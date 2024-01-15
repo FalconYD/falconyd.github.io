@@ -1,13 +1,21 @@
 ---
-title: C사 (2019.05. ~ 2019.10.)
+title: KAISYS
 images:
-
+ - /img/project/FalconEyes_2_01.png
+ - /img/project/FalconEyes_2_02.png
+ - /img/project/FalconEyes_2_03.png
+ - /img/project/FalconEyes_2_04.png
+ - /img/project/FalconEyes_2_05.png
+ - /img/project/FalconEyes_2_06.png
+ - /img/project/FalconEyes_2_07.png
+ - /img/project/FalconEyes_2_08.png
+ - /img/project/FalconEyes_2_09.png
 ---
-## 3D Cover Glass Vision Inspector (2019.05. ~ 2019.10.)
-- 목적 : 3D Cover Glass 외관 검사 내재화 설비
-- 사용기술 : -
-- 개발환경 : -
-- 담당업무 : 외주 SW업체 일정 관리 및 프로젝트 샘플 테스트 및 결과 피드백
+
+## 
+Test Pjt
+
+- OpenCV 451 Static Build -> 480 DLL.
   
 ### Program Images
 

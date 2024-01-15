@@ -22,8 +22,8 @@ images:
   - Serial Comm (RS232, RS422)
   - TCP/IP, UDP
   - DataBase (PostgreSQL, SQLite, MariaDB)
-  - OpenCL - Study
-  - PPL, TBB - Study
+  - OpenCL, CUDA - Study
+  - PPL, TBB, SIMD - Study
   - Pytorch - Study
 
 - 툴

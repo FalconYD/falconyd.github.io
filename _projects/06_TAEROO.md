@@ -1,5 +1,5 @@
 ---
-title: TAEROO (2021.11. ~ .)
+title: F사 (2021.11. ~ .)
 images:
 
 ---
@@ -14,6 +14,12 @@ images:
 - 사용기술 : AiDitron SDK, Master Program(Result Mapping, 검사시작), Client Program (AI처리 Result Merge, Camera 19EA)
 - 개발환경 : Windows 10 / WPF / AiDitron AI / Coaxial Camera/ RS232 / TCP/IP
 - 담당업무 : 프로그램 설계 및 개발, 셋업.
+
+## 셋업용 해상도 측정 프로그램 (2022.04. ~ 2022.09.)
+- 목적 : 라인 셋업을 위한 Jig 해상도 측정 프로그램.
+- 사용기술 : OpenCV, WPF, C++(DLL)
+- 개발환경 : Windows 10 / WPF / OpenCV
+- 담당업무 : 프로그램 개발 및 셋업.
 
 ## Roll to Roll Label Print Inspector (2021.11. ~ 2022.08.)
 - 목적 : Roll to Roll 인쇄기 라벨 인쇄 검사

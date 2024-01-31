@@ -1,17 +1,18 @@
 ---
 title: FalconEyes Lite
 images:
- - /img/project/FalconEyes_lite_00.png
- - /img/project/FalconEyes_lite_01.png
- - /img/project/FalconEyes_lite_02.png
- - /img/project/FalconEyes_lite_03.png
- - /img/project/FalconEyes_lite_04.png
- - /img/project/FalconEyes_lite_05.png
+ - /img/sideproject/FalconEyes_lite_00.png
+ - /img/sideproject/FalconEyes_lite_01.png
+ - /img/sideproject/FalconEyes_lite_02.png
+ - /img/sideproject/FalconEyes_lite_03.png
+ - /img/sideproject/FalconEyes_lite_04.png
+ - /img/sideproject/FalconEyes_lite_05.png
 ---
 
-## FalconEyes-Lite
+## 개요
 영상처리 공부를 처음 하면서 만든 프로그램이다. 영상처리를 하는데 있어 영상처리를 테스트해볼 수 있는 Tools의 중요성을 느꼈던 프로젝트. 현재는 2.0버전으로 Up하며 lite버전의 기능 대부분은 Porting하였다.
 
+## 특징
 - Image Processing Tool.
 - Visual C++ 영상 처리 프로그래밍 책 기반 구현.
   (IPP 이미지 클래스를 OpenCV Mat으로 맞게 변환.)
@@ -30,7 +31,7 @@ images:
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
+                <img src="{{ img }}" class="d-block w-100" alt="" onclick="window.open(this.src)">
             </div>
         {% endfor %}
     </div>

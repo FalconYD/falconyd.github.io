@@ -1,14 +1,14 @@
 ---
 title: FalconDL
 images:
- - /img/project/FalconDL_01.png
- - /img/project/FalconDL_02.png
- - /img/project/FalconDL_03.png
- - /img/project/FalconDL_04.png
- - /img/project/FalconDL_05.png
+ - /img/sideproject/FalconDL_01.png
+ - /img/sideproject/FalconDL_02.png
+ - /img/sideproject/FalconDL_03.png
+ - /img/sideproject/FalconDL_04.png
+ - /img/sideproject/FalconDL_05.png
 ---
 
-## FalconDL
+## 개요
 Pytorch C++ 버전인 libtorch기반 AI 테스트 프로젝트.
 Github에 구현된 libtorch 기반 프로젝트 UI추가.
 
@@ -29,7 +29,7 @@ Github에 구현된 libtorch 기반 프로젝트 UI추가.
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
+                <img src="{{ img }}" class="d-block w-100" alt="" onclick="window.open(this.src)">
             </div>
         {% endfor %}
     </div>

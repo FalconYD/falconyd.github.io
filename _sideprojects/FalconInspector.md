@@ -1,14 +1,15 @@
 ---
 title: FalconInspector
 images:
- - /img/project/FalconInspector.png
+ - /img/sideproject/FalconInspector.png
 ---
 
-## FalconInspector
+## 개요
 Falcon Eyes에 작성하였던 Pattern Inspector 고속처리 프로젝트.
 
+## 특징
 - WPF UI.
-- 4가지 고속화 작업.
+- Processing 고속화 작업.
   - SIMD OpenMP : SSE 기반 OpenMP 가속.
   - SIMD TBB : SSE 기반 TBB 가속.
   - TBB : TBB 가속. (Thread Building Block)
@@ -25,7 +26,7 @@ Falcon Eyes에 작성하였던 Pattern Inspector 고속처리 프로젝트.
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
+                <img src="{{ img }}" class="d-block w-100" alt="" onclick="window.open(this.src)">
             </div>
         {% endfor %}
     </div>

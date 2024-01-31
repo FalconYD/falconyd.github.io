@@ -1,20 +1,21 @@
 ---
 title: FalconEyes 2.0
 images:
- - /img/project/FalconEyes2_01.png
- - /img/project/FalconEyes2_02.png
- - /img/project/FalconEyes2_03.png
- - /img/project/FalconEyes2_04.png
- - /img/project/FalconEyes2_05.png
- - /img/project/FalconEyes2_06.png
- - /img/project/FalconEyes2_07.png
- - /img/project/FalconEyes2_08.png
- - /img/project/FalconEyes2_09.png
+ - /img/sideproject/FalconEyes2_01.png
+ - /img/sideproject/FalconEyes2_02.png
+ - /img/sideproject/FalconEyes2_03.png
+ - /img/sideproject/FalconEyes2_04.png
+ - /img/sideproject/FalconEyes2_05.png
+ - /img/sideproject/FalconEyes2_06.png
+ - /img/sideproject/FalconEyes2_07.png
+ - /img/sideproject/FalconEyes2_08.png
+ - /img/sideproject/FalconEyes2_09.png
 ---
 
-## FalconEyes2.0
+## 개요
 기존 MFC MDI기반 FalconEyes를 WPF기반 Dock UI로 Porting한 프로그램.
 
+## 특징
 - Image Processing Tool.
 - Visual C++ 영상 처리 프로그래밍 책 기반 구현 -> 2.0으로 바꾸면서 C++ DLL로 변경.
   (IPP 이미지 클래스를 OpenCV Mat으로 맞게 변환.)
@@ -46,7 +47,7 @@ images:
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
+                <img src="{{ img }}" class="d-block w-100" alt="" onclick="window.open(this.src)">
             </div>
         {% endfor %}
     </div>

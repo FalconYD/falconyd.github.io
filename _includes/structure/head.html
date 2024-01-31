@@ -21,9 +21,39 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/theme/css/site.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/theme/css/syntax.css">
 
+
     <script type="text/javascript" 
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
     <script type="text/x-mathjax-config">
-         MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }}); 
+        MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }}); 
     </script>
+<!--
+    <script type="text/javascript" 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+-->
+<!--
+    <script type="text/javascript" async
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            TeX: {
+              equationNumbers: {
+                autoNumber: "AMS"
+              }
+            },
+            tex2jax: {
+            inlineMath: [ ['$', '$'] ],
+            displayMath: [ ['$$', '$$'] ],
+            processEscapes: true,
+          }
+        });
+        MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
+              alert("Math Processing Error: "+message[1]);
+            });
+        MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
+              alert("Math Processing Error: "+message[1]);
+            });
+        </script>
+        -->
 </head>

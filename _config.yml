@@ -4,7 +4,10 @@ permalink: /:categories/:year/:month/:day/:title.html
 # Conversion
 markdown:         kramdown
 highlighter:      rouge
-excerpt_separator: <!--more-->
+lsi:              false
+excerpt_separator: "\n\n"
+incremental:      false
+#excerpt_separator: <!--more-->
 
 # Config for your profile.
 title:            Falcon Blog            # Site title

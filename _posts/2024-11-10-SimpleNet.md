@@ -49,3 +49,8 @@ tags:
  - 현재 https://github.com/jahongir7174/SimpleNet의 코드기반으로 변환 중이다.
  - https://github.com/DonaldRR/SimpleNet와 https://github.com/jahongir7174/SimpleNet가 정확히 같은 구현인지는 검증 중이다.
  - 현재 ResNet 특징 추출부분을 기존코드의 ResNet으로 대치하였는데, 해당부분이 정확한 구현인지는 검증중 이다.
+
+ - 24.11.17 진행 상황
+   - jahongir7174 코드로 변환중. 컴파일 까지 확인.
+   - 기존 코드 ResNet으로 변환 하였으나 출력되는 Shape가 다름. 3,4 레이어 출력을 tuple로 묶어서 입력. Train 코드 맞는 Shape로 코드 수정.
+   - Test에서 roc_auc_score, precision_recall_curve, auc, f1_score 테스트 중. pytorch에서 1이하로 나오던값이 1을 넘게 나온 현상 디버깅 중.

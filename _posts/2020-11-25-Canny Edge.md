@@ -1,7 +1,7 @@
 ---
 title: Canny Edge
 tags:
-  - ImageProcessing
+  - Image Processing
   - Book
   - Edge
 ---

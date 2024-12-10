@@ -1,7 +1,7 @@
 ---
 title: OpenGL Image Viewer
 tags:
-  - 3D
+  - 3D Visualize
   - OpenGL
   - Image Viewer
 ---

@@ -5,3 +5,7 @@
 - caption: 경기도 오산
   href: https://www.google.co.kr/maps/place/Osan/@37.1700156,127.0442631,14.54z
   icon: entypo/location-pin.svg
+
+- caption: Discord
+  href: https://discordapp.com/users/Radix
+  icon: entypo/discord.svg

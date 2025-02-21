@@ -82,7 +82,7 @@ $$\textcolor{Black}{
 - Fiber 길이: 
   
 $$\textcolor{Black}{
-  {Fiber Length} = {Perimeter} - \sqrt{\text{Perimeter}^2 - 16 \cdot {Area}}
+  Fiber Length = Perimeter - \sqrt{Perimeter^2 - 16 \cdot {Area}}
 }$$
   {% highlight c++ %}
     {% raw %}
@@ -103,15 +103,15 @@ $$\textcolor{Black}{
   
 
 $$\textcolor{Black}{
-  {Major Axis Angle} = \arctan\left(\frac{y_2 - y_1}{x_2 - x_1}\right)
+  Major Axis Angle = \arctan\left(\frac{y_2 - y_1}{x_2 - x_1}\right)
 }$$
-  
+
 ### Compactness
 - 개체와 동일한 둘레를 갖는 원의 면적에 대한 개체 면적의 비율
   
 
 $$\textcolor{Black}{
-  {Compactness} = \frac{4 \pi \cdot {Area}}{{Perimeter}^2}
+  Compactness = \frac{4 \pi \cdot {Area}}{Perimeter^2}
 }$$
 
 
@@ -138,7 +138,7 @@ $$\textcolor{Black}{
   
 
 $$\textcolor{Black}{
-  Circularity or Roundness = \frac{4 \pi \cdot Area}{{Convex Perimeter}^2}
+  Circularity or Roundness = \frac{4 \pi \cdot Area}{Convex Perimeter^2}
 }$$
 
 

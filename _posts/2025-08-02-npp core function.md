@@ -50,5 +50,5 @@ tags:
 {% endhighlight c++ %}
 
  
- (https://docs.nvidia.com/cuda/npp/core_npp.html)
+ (https://docs.nvidia.com/cuda/npp/core_npp.html)  
 출처 - CUDA NPP

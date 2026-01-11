@@ -167,5 +167,4 @@ tags:
    {% endraw %}
 {% endhighlight c++ %}  
  양수면 1, 음수면 -1, 0이면 0 반환.
- (https://docs.nvidia.com/cuda/npp/core_npp.html)  
-출처 - CUDA NPP
+   

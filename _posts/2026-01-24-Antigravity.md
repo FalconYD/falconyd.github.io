@@ -62,6 +62,8 @@ tags:
 ### 사용 팁2 : Skills.  
  - Claude Code의 Skills라는 기능을 Antigravity에서 사용 할 수 있다.
  - 사용법은 해당 리포지토리를 다운로드 하고, Skill 폴더를 Workspace에 놓고 Agent를 사용하면 된다.  
- - Skill은 Agent에 사전에 특정한 기능을 위한 사전 프롬프트다.
-   (https://github.com/anthropics/skills)  
+ - Skill은 Agent에 사전에 특정한 기능을 위한 사전 프롬프트다.  
+   (https://github.com/anthropics/skills)    
+   (https://github.com/sickn33/antigravity-awesome-skills)
+  
    ![그림](/img/post/20260124/29.png){: height="400"}

@@ -7,9 +7,9 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Geometry Transforms
  
-<!--more-->
 
 ### Resize
  크기 조정 함수는 입력 및 출력 ROI(관심 영역)의 너비 및 높이 비율에 의해 자동으로 결정되는 배율 계수를 사용합니다.

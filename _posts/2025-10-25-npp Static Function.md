@@ -7,11 +7,11 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Static Functions
  이미지의 통계적 속성을 계산하기 위한 기본형식. 일부 통계 기본 요소는 계산 중에 스크래치 버퍼도 필요하다.
   (https://docs.nvidia.com/cuda/npp/introduction.html#general_conventions_lb_1general_scratch_buffer)
  
-<!--more-->
 ## 함수들
  - Image Sum : 이미지의 모든 픽셀 값의 합
  - Image Min : 이미지의 최소 픽셀 값.

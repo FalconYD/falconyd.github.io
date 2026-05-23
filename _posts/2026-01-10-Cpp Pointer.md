@@ -5,9 +5,9 @@ tags:
   - Optimize
 ---
 
+<!--more-->
 ## Pointer
  Mordern C++ 메모리 할당 방법.
-<!--more-->
 ### Traditional
  C스타일에서 힙메모리의 할당 해제는 new,delete를 쌍으로 구성하여 메모리 할당과 해제를 수행한다. 
  delete가 누락 되면 메모리 릭이 발생 한다. 메모리 해제시에는 포인터에 nullptr을 명시적으로 입력하여 해제를 확인해야한다.

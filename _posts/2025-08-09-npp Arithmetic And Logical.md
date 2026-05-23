@@ -7,8 +7,8 @@ tags:
   - NPP
 ---
 
-## Arithmetic And Logical
 <!--more-->
+## Arithmetic And Logical
  nppial 라이브러리에 있고, 이미지 처리 산술 연산 집합이다.
  함수는 "기능_데이터형식_채널정보_Ctx"형식으로 호출한다.
  Ctx는 Context의 약자로 보이며, 쿠다 스트림을 입력한다.

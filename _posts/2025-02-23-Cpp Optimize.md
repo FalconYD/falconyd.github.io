@@ -4,8 +4,8 @@ tags:
   - C++
   - Optimize
 ---
-## C++ Optimize
 <!--more-->
+## C++ Optimize
  Photometric Stereo를 테스트 중에 특이한 현상을 확인 하였다.
  같은 구현 이지만, 실행 속도가 다른 현상.
 

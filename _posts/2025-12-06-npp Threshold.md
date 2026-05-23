@@ -7,11 +7,10 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Threshold
  픽셀별 임계값 및 비교 연산을 위한 방법들.
-  
- 
-<!--more-->
+   
 ### Threshold 함수들
   {% highlight c++ %}
    {% raw %}  

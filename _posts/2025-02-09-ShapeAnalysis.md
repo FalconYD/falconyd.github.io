@@ -4,8 +4,8 @@ tags:
   - Image Processing
   - Shape Analysis
 ---
-## 형상 분석
 <!--more-->
+## 형상 분석
  영상 처리 에서 전처리 이후 blob 과정을 거친 이후 형상을 분석할 수 있는 지표들을 정리한다.
 
 ### 자주 쓰이는 용어

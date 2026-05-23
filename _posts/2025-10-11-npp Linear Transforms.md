@@ -7,12 +7,12 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Image Linear Transforms Functions
 선형 이미지 변환.
 
  함수는 nppist 라이브러리에 있다. 사용하는 하위 라이브러리에만 연결하면 동적 라이브러리를 사용할때 링크시간, 애플리케이션 로드 시간 및 CUDA 런타임 시작 시간을 크게 절약할수 있다.
  
-<!--more-->
 ### Function
 
 {% highlight c++ %}

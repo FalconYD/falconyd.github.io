@@ -7,9 +7,9 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Computer Vision Filtering
  사용 가능한 컴퓨터 비전 함수들이다.
-<!--more-->
  
 ### Distance Transform
  2019 08월 08일에 발표된 "GPU로 정확한 거리변호나을 계삲난 병렬 밴딩 알고리즘(PBA+)"를 사용하여 정확한 유클리드 거리 변환 함수를 수행한다.

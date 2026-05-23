@@ -4,8 +4,8 @@ tags:
   - Photometric Stereo
   - Light Concept
 ---
-## Photometric Stereo
 <!--more-->
+## Photometric Stereo
  영상의 품질을 개선하는 아이디어. 2차전지와 같은 산업에서 조명을 N개(3개이상, 보통 4개?) 사용하여 동일한 대상을 측정 후 개선된 이미지로 Rule-Base 검사 혹은 AI Inference를 진행한다.
   
 $$\textcolor{Black}{

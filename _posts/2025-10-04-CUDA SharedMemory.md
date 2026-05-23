@@ -5,10 +5,10 @@ tags:
   - Palellel Processing
 ---
 
+<!--more-->
 ## Cuda Memory Model
  Cuda에서 메모리는 크게 Host, Device로 나뉜다.  
  Host는 Cuda를 호출하는 기기, 윈도우 환경에서는 PC의 메모리 공간을 Host 메모리라고 하고, Cuda가 동작하는 Nvidia 기기, GPU를 Device 메모리라고 한다.  
-<!--more-->
  Device 메모리에 대한 정리는 이전에 한번 정리를 했기에 링크로 대체한다.  
  ![](/_post/2024_01_16-CUDA.md)
 

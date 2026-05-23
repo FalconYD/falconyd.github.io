@@ -5,8 +5,8 @@ tags:
   - Google AI Pro
 ---
 
-## Antigravity
 <!--more-->
+## Antigravity
  요즘 핫한 바이브 코딩에 회의적이었다. Gemini CLI를 테스트로 사용해 보았는데, 생각보다 성능이 별로였다. 그럴듯 하지만 무언가 되지 않는 코드들...
  얼마전 전 직장 동료가 Claude에 대한 이야기를 하여 Google AI Pro를 구독하여 사용해 보기로 하였고, Setting을 하고 테스트하여 결과가 꽤 흡족하여 정리 한다.
 

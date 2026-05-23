@@ -6,8 +6,8 @@ tags:
   - Image Viewer
 ---
 
-## OpenGL이란?
 <!--more-->
+## OpenGL이란?
  OpenGL은 gpu가속으로 Visualize를 하는 Open Library 이다.
 
 ## ImageViewer

@@ -7,10 +7,10 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Signal Functions
  신호처리를 위한 npp 라이브러리.
  기존 npp 영상처리 라이브러리와 유사한 함수가 다수 존재한다. 자주 사용하지 않아 나열만 해놓는다.
-<!--more-->
 
 ### Arithmetic and Logical
  연산

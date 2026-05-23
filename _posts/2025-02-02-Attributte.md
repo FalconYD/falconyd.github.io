@@ -3,8 +3,8 @@ title: C++ Attribute
 tags:
   - C++
 ---
-## Attribute
 <!--more-->
+## Attribute
  컴파일러에 추가 정보를 전달하는 구문으로 [[attributes]]라고 쓴다.
  컴파일러에 의한 최적화 경고, 경고 추가 등을 할 수 있다.
 

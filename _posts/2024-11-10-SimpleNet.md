@@ -6,8 +6,8 @@ tags:
   - Anormaly Detection
 ---
 
-## Anormaly Detection?
 <!--more-->
+## Anormaly Detection?
  Anormaly Detection은 간단하게 정상을 학습시켜 비정상(결함)을 검출해내는 DeepLearning 방법이다.
  AutoEncorder등의 여러 방법이 있으나, 그 중 SimpleNet을 알아본다.
 

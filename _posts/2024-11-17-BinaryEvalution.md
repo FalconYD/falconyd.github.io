@@ -6,8 +6,8 @@ tags:
   - Evalution
 ---
 
-## Evalution?
 <!--more-->
+## Evalution?
  AI 모델을 학습을 할 때, 모델의 가중치가 얼마나 학습이 되었는지 평가가 필요하다.
  Python의 경우 sklearn 라이브러리의 metric을 사용하여 항목을 평가한다.
  작업 중인 SimpleNet Test항목에서는 다음의 지표가 사용된다.

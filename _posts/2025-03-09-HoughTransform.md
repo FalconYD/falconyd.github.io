@@ -6,8 +6,8 @@ tags:
   - Edge
 ---
 
-## Hough Transform  
 <!--more-->
+## Hough Transform  
 
 [알고리즘3-6]은 어떤 화소의 이웃을 조사하는 지역 연산local opration임에 비해, 허프 변환은 전체공간을 조사하는 전역 연산global operation이다.
  또한 사람이 일직선 상에 있다고 지각하는 점들을 한 곳으로 모으는 원리를 사용하므로 일종의 지각 군집화perceptual grouping라고 볼 수 있다.

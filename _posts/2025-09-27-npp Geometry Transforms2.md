@@ -7,9 +7,9 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Geometry Transforms 2
  
-<!--more-->
 ### Affine Transforms
  아핀 변환을 기반으로 이미지를 변형(왜곡)합니다.
 

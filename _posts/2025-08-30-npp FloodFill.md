@@ -7,9 +7,9 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Flood Fill
  연결된 영역을 특정 새로운 값으로 채운다.
-<!--more-->
  
 ### FloodFillGetBufferSize
  FloodFill 함수 호출전 앺ㄹ리케이션은 먼저 FloodFillGetBufferSize함수를 호출하여 작업 버퍼로 할당할 디바이스 메모리양을 결정해야한다. 그런 다음 애플리케이션 할당 디바이스 메모리는 pBUffer 매개 변수로 해당 FloodFill 함수에 전달된다.

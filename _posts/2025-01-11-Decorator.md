@@ -5,8 +5,8 @@ tags:
   - Python
   - C++
 ---
-## Python에서의 Decorator
 <!--more-->
+## Python에서의 Decorator
  Python에서는 '@'로 시작하는 문법이 있다.  
   {% highlight python %}
     {% raw %}

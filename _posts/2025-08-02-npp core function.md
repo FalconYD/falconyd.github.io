@@ -7,8 +7,8 @@ tags:
   - NPP
 ---
 
-## Core Function
 <!--more-->
+## Core Function
  라이브러리 관리를 위한 기본 기능, 특히 라이브러리 버전 및 장치 속성 쿼리 가능.
 
 ### 함수

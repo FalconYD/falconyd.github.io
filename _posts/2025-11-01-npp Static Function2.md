@@ -7,11 +7,11 @@ tags:
   - NPP
 ---
 
+<!--more-->
 ## Static Functions 2
  이미지의 통계적 속성을 계산하기 위한 기본형식. 일부 통계 기본 요소는 계산 중에 스크래치 버퍼도 필요하다.
   (https://docs.nvidia.com/cuda/npp/introduction.html#general_conventions_lb_1general_scratch_buffer)
  
-<!--more-->
 ## 함수들
  - Image Square Distance Full Norm : 전체 모드로 두 이미지 사이의 정규화된 유클리드 거리를 계산하기 위한 기본 형식.
  - Image Square Distance Same Norm : 동일한 모드를 가진 두 이미지 사이의 정규화된 유클리드 거리를 계산하기 위한 기본 형식.

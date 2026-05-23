@@ -6,8 +6,8 @@ tags:
   - Edge
 ---
 
-## 모라벡(Moravec) 알고리즘.
 <!--more-->
+## 모라벡(Moravec) 알고리즘.
  제곱차의 합SSD(sum of squared difference)
  
  $$\textcolor{Black}{

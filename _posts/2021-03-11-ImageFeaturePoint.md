@@ -11,9 +11,9 @@ tags:
 <span style="color:violet">
 </span>
 
+<!--more-->
 ##### 모라벡(Moravec) 알고리즘
 - **제곱차의 합 SSD(sum of squard difference)**
-<!--more-->
 
 $$\textcolor{Black}{S(v,u)=\sum_{y}\sum_{x} w(y,x)(f(y+v,x+u)-f(y,x))^{2}}$$
 

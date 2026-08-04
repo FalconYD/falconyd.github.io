@@ -5,19 +5,19 @@ images:
 ---
 
 ## 개요
-Falcon Eyes에 작성하였던 Pattern Inspector 고속처리 프로젝트.
+Falcon Eyes에 작성하였던 Pattern Inspector 벤치마킹 프로젝트.
 
 ## 특징
 - WPF UI.
 - Processing 고속화 작업.
-  - SIMD OpenMP : SSE 기반 OpenMP 가속.
-  - SIMD TBB : SSE 기반 TBB 가속.
+  - SIMD OpenMP : SSE 기반 OpenMP 가속 (SIMD).
+  - SIMD TBB : SSE 기반 TBB 가속 (SIMD).
   - TBB : TBB 가속. (Thread Building Block)
   - OpenCL : GPGPU 가속. (OpenCL 2.0 지원 디바이스 전용)
   - CUDA : GPGPU 가속. (Nvidia Device 전용)
 - OpenCV 480 DLL.
 - CvBlob.
-- 처리속도 모니터링. (MB/s)
+- 처리속도 모니터링. (MB/s) (입력 - 결과 출력 속도)
 - 시스템 자원 모니터링.
   
 ## Program Images

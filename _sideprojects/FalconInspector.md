@@ -5,7 +5,7 @@ images:
 ---
 
 ## 개요
-Falcon Eyes에 작성하였던 Pattern Inspector 벤치마킹 프로젝트.
+Falcon Eyes에 작성하였던 Pattern Inspector 벤치마크 프로젝트.
 
 ## 특징
 - WPF UI.
